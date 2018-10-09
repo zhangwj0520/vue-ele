@@ -1,6 +1,6 @@
 # node-vue-element资金管理项目
 ## 演示地址
- [个人博客](https://www.zhangweijie.com.cn/bund)
+ [dome](https://www.zhangweijie.com.cn/bund)
 
 ## 说明
 使用vue框架和elementUI实现的一个简单资金管理项目
