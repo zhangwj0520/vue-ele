@@ -1,7 +1,6 @@
 // @login &register
 const express = require('express');
 const router = express.Router();
-//const bcrypt = require('bcrypt');
 var crypto = require('crypto');
 const gravatar = require('gravatar');
 const jwt = require('jsonwebtoken');

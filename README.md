@@ -1,10 +1,29 @@
-# 
-1. 创建服务
-2. 连接数据库-->创建数据库模型(Users)
-3. 添加路由(users)
-4. postman
-5. gravatar
-6. jsonwebtoken  使用token登录
-7. passport-jwt passport
-8. concurrently 前后的连载
-9. jwt-decode
+# node-vue-element资金管理项目
+## 演示地址
+ [个人博客](https://www.zhangweijie.com.cn/bund)
+
+## 说明
+使用vue框架和elementUI实现的一个简单资金管理项目
+主要的功能有: 分权限登录注册,添加收入支出账单,记录时间,可以根据日期查询收支情况.
+
+
+## 技术要点
+##### 前端
+1. 使用vue3.0脚手架创建项目
+2. 使用element ui 构建项目的静态页面
+3. 使用axios请求、存储数据以及相应拦截
+4. 使用vue-router实现各个页面路由跳转
+
+##### 后端
+1. 使用node、express框架
+2. body-parser对post请求的请求体进行解析
+3. jsonwebtoken、passport实现token生成，及认证功能
+4. 使用crypto模块md5不可逆方式加密存储用户密码
+
+
+
+
+
+
+
+
